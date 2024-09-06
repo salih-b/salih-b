@@ -6,6 +6,7 @@ Frontend-oriented software developer who came from an Aerospace Engineering back
 
 *  :earth_africa:  I'm based in VA, USA
 *  :email:  You can contact me at [salihbabekr@outlook.com](mailto:salihbabekr@outlook.com)
+*  👨‍💻 Learn more about me at [salihbabekr.com](https://salihbabekr.com)
 *  :brain:  I'm learning I'm learning everything to do with AI
 *  :handshake:  I'm open to collaborating on Volunteering, Open Source, Personal Projects
   
